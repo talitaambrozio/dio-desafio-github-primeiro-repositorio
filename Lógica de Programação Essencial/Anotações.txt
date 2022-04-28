@@ -1,0 +1,27 @@
+Conceito Lógica: sequência coerente, regular e necessária de acontecimentos, coisas.
+
+Conceito Lógica de Programação: Significa contextualizar a lógica na programação de computadores, buscando
+a melhor sequência de ações para solucionar um problema.
+
+Abstração: habilidade de concentrar nos aspectos essenciais de um contexto qualquer, ignorando características menos
+importantes  ou acidentais.
+
+Algorítmo: sequência de ações que resolve um problema.
+
+Pseudocódigo: é uma forma genérica de escrever um algorítmo, utilizando uma linguagem simples (nativa).
+
+Link: https://www.proprofsgames.com/wolf-sheep-and-cabbage/
+
+Fluxograma: é uma ferramenta para representar graficamente um algorítmo.
+
+Variável: é um objeto (posição, localizada na memória) capaz de reter ou representar um valor ou expressão, que é alterado
+durante a execução do algorítmo.
+
+Constante: valores imutáveis.
+
+Estrutura de repetição: permite executar mais de uma vez o mesmo comando ou conjunto de comandos, de acordo com
+uma condição ou um contador.
+
+Linguagens de Programação:
+Baixo Nível: se aproxima mais da linguagem da máquina.
+Alto Nível: são aquelas cuja sintaxe se aproxima mais da nossa linguagem e se distanciam mais da linguagem da máquina.
