@@ -1,0 +1,21 @@
+GIT: criado em 2005, é um sistema de versionamento de códigos distribuído. (por Linus Torvalds) 
+ajuda a criar e a monitorar diferentes versões de softwares/códigos dentro de nossas máquinas.
+
+CLI – comando line interface
+
+Comandos:
+Windows         Unix
+cd               cd
+dir              ls
+mkdir            mkdir
+del/rmdir        rm rf
+
+obs:
+dir: lista todas as pastas
+cd: vai navegar entre pastas
+cd ..: para retroceder pastas
+cls (windows) e clear/crtl+L  (linux): para limpar a tela
+mkdir: para criar repositórios
+del: remove arquivos dentro de um repositório
+rmdir: remove o repositório completo
+
